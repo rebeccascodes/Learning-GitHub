@@ -1,4 +1,4 @@
 New text 
 practice uploading files to GitHub cloud, making my first change to a document here
 next text in the new branch called FixFile
-edit made in GITHUB
+fixed typo!
